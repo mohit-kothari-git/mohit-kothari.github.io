@@ -13,7 +13,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/mohit-kothari-git/mohit-kothari.github.io/main/src/images/demo.png)
 
 ### TL;DR
 
