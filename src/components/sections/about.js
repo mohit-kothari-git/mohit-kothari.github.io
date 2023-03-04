@@ -154,7 +154,7 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve the privilege of working at{' '}
-              <a href="https://www.amazon.in/">Amazon India Development Center</a>.My main focus
+              <a href="https://www.amazon.in/">Amazon India Development Center</a>. My main focus
               these days is building tech solutions as SSA Developer and Business Analyst for
               various stakeholders to support Product Safety/Compliance.
             </p>
@@ -162,9 +162,8 @@ const About = () => {
             <p>
               Ace Of Spades: Awarded for being Top performer in the Org. Beyond: Awarded for
               exhibiting leadership principles Deep Dive, Ownership, Customer Obsession, insist on
-              the Highest Standards to drive significant process improvements. This is to recognize
-              outstanding initiatives or projects with measurable impact I have been Finalist at
-              National Championship (CS/IT) Tecradiance 2019 at IIT Bombay.
+              the Highest Standards to drive significant process improvements. I have been Finalist
+              at National Championship (CS/IT) Tecradiance 2019 at IIT Bombay.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
