@@ -1,12 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2020-05-25'
+title: 'Senior Associate Product Safety - SSA'
+company: 'Amazon'
+location: 'Bangalore, IN'
+range: 'May 2020 - Present'
+url: 'https://www.amazon.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Write modern, performant, maintainable code for a diverse array of stakeholders and internal projects
+- Work with a variety of different languages, platforms, frameworks, and data systems such as JavaScript, Enterprise Java, Python, React, PHP, MySql, Quicksight, and Maven.
+- Communicate with multi-disciplinary teams of Business Analysts, Program Managers and Internal stakeholders on a daily basis
