@@ -1,13 +1,16 @@
 ---
 date: '3'
-title: 'Classifieds'
-cover: './course-card.png'
-github: 'https://github.com/mohit-kothari-git/Classifieds]
+title: 'Business Site'
+cover: './halcyon.png'
+github: 'https://github.com/mohit-kothari-git/business_site'
+external: 'https://mohithmarketing.com/'
 tech:
-  - Java
-  - Maven
+  - PHP
   - MySql
+  - Bootstrap
+  - JavaScript
+  - HTML
+  - CSS
 ---
 
-An Internal OLX kind of Solution for Amazon Employees, with the functionality of Buying and
-Selling internally.
+A minimal shopping site with landing page, built curated to small scale business to cater a online presence.
