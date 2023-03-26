@@ -13,4 +13,4 @@ tech:
   - CSS
 ---
 
-A minimal shopping site with landing page, built curated to small scale business to cater a online presence.
+A Web App built curated to small scale business to cater a online presence and provide details of the services and products they offer along with a order management.

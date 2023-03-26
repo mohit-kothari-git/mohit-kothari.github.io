@@ -1,16 +1,13 @@
 ---
 date: '3'
-title: 'Business Site'
+title: 'Classifieds'
 cover: './halcyon.png'
-github: 'https://github.com/mohit-kothari-git/business_site'
-external: 'https://mohithmarketing.com/'
+github: 'https://github.com/mohit-kothari-git/Classifieds'
 tech:
-  - PHP
+  - JAVA
+  - Maven
+  - Intellij
   - MySql
-  - Bootstrap
-  - JavaScript
-  - HTML
-  - CSS
 ---
 
-A minimal shopping site with landing page, built curated to small scale business to cater a online presence.
+A menu driven OLX Kind of Solution for trading goods within set on logged in users and managed by admin
